@@ -200,6 +200,13 @@ h3 {
     background-position: 0.4em center;
 }
 
+#soundcloud {
+     background-image: url('images/soundcloud.png');
+     background-repeat: no-repeat;
+     background-size: 1.7em;
+     background-position: 0.4em center;
+ }
+
 /* ============================================================= */
 
 
