@@ -1,6 +1,6 @@
 body {
 
-    background: linear-gradient(#1C5F73, #3F3E65);      /* choose background colour */
+    background: linear-gradient(#163534, #567462);      /* choose background colour */
 
     font-size: 24px;
     font-family: Helvetica, Calibri, sans-serif;
@@ -31,7 +31,7 @@ h1 {
     justify-content: center;
     flex-flow: column wrap;
 
-    color: #ffeef2;              /* choose the colour of Your Name text */
+    color: #FFFFFF;              /* choose the colour of Your Name text */
     font-size: 1.7em;
 
     padding-bottom: 0.5em;
@@ -50,7 +50,7 @@ h2 {
     padding-right: 1em;
     padding-top: 0;
 
-    color: #edd3c4;   /* choose the colour of About You text */
+    color: #FFFFFF;   /* choose the colour of About You text */
 
     font-weight: 200;
     font-size: 1.2em;
@@ -71,7 +71,7 @@ h3 {
 
     margin: 0.4em auto;
 
-    color: #edd3c4;   /* choose the colour of the Subheading text */
+    color: #FFFFFF;   /* choose the colour of the Subheading text */
 
     font-weight: 400;
     font-size: 1.3em;
@@ -95,8 +95,7 @@ h3 {
     flex-flow: column wrap;
     align-items: center;
 
-    background-color: #2D3238;  /* choose the background colour of link buttons */
-
+    background-color: #2F2F2F;  /* choose the background colour of link buttons */
 
     flex: 1;
 
@@ -114,14 +113,14 @@ h3 {
 
     box-sizing: border-box;
 
-    border: solid 2px #2D3238;
+    border: solid 2px #313131;
     border-radius: 0.4em;
 
     height: 2.2em;
     min-width: 15em;
     max-width: 30em;
 
-    box-shadow: -0.25em 0.25em 0.25em 0 rgba(41,41,41,1); /* change the last numbre in rgba in the range of 0 to 1 to change transparency of the button shadow */
+    box-shadow: -0.12em 0.12em 0.12em 0 rgba(41,41,41,0.85); /* change the last numbre in rgba in the range of 0 to 1 to change transparency of the button shadow */
 }
 
 
@@ -137,7 +136,6 @@ h3 {
     padding-bottom: 0;
     margin-bottom: 0;
 }
-
 
 
 /* ============================================================= */
@@ -205,7 +203,6 @@ h3 {
 /* ============================================================= */
 
 
-
 /* Stylink links */
 
 a {
@@ -214,33 +211,33 @@ a {
 
 
 a:link {
-    color: #FFEEF2;            /* choose the colour of links */
+    color: #FFFFFF;            /* choose the colour of links */
     text-decoration: none;
 }
 
 a:visited {
-    color: #FFEEF2;          /* choose the colour of visited links. Preferably match it to the previous colour */
+    color: #FFFFFF;          /* choose the colour of visited links. Preferably match it to the previous colour */
     text-decoration: none;
 }
 
 a:hover {
-    color: #FFEEF2;          /* choose the colour of links when mouse is hovering over them */
+    color: #FFFFFF;          /* choose the colour of links when mouse is hovering over them */
     text-decoration: none;
     font-weight: 400;
 
     letter-spacing: 0.01em;
 
-    border: solid 2px #292929;    /* button border on hover */
-    box-shadow: -0.25em 0.25em 0.25em 0.15em rgba(41,41,41,1); /* change the last number in rgba in the range of 0 to 1 to change transparency of the button shadow when mouse os hovering */
+    border: solid 2px #2F2F2F;    /* button border on hover */
+    box-shadow: -0.2em 0.2em 0.2em 0 rgba(41,41,41,1); /* change the last number in rgba in the range of 0 to 1 to change transparency of the button shadow when mouse os hovering */
 }
 
 a:active {
-    color: #FFEEF2;         /* choose the colour of links on click */
+    color: #EEEEEE;         /* choose the colour of links on click */
     text-decoration: none;
     font-weight: 400;
 
-    border: solid 2px #292929;      /* button border on click */
-    box-shadow: -0.25em 0.25em 0.25em 0 rgba(41,41,41,1); /* change the last number in rgba in the range of 0 to 1 to change transparency of the button shadow on click*/
+    border: solid 2px #2F2F2F;      /* button border on click */
+    box-shadow: -0.12em 0.12em 0.12em 0 rgba(41,41,41,0.85); /* change the last number in rgba in the range of 0 to 1 to change transparency of the button shadow on click*/
 
     position: relative;
     top: 1px;
@@ -250,7 +247,6 @@ a:active {
 /* End of:  Stylink links */
 
 /* ============================================================= */
-
 
 
 /* Footer styling */
@@ -274,9 +270,7 @@ footer {
 }
 
 
-
 /* ============================================================= */
-
 
 
 /* Stylink links */
