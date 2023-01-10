@@ -1,6 +1,6 @@
 # My link collection
 
-![State](https://img.shields.io/github/deployments/anthonyalfimov/anthonyalfimov.github.io/github-pages?logo=github)
+[![State](https://img.shields.io/github/deployments/anthonyalfimov/anthonyalfimov.github.io/github-pages?logo=github)](https://github.com/anthonyalfimov/anthonyalfimov.github.io/deployments/activity_log?environment=github-pages)
 
 Personal page that collects links to everything that I do:
 https://anthonyalfimov.github.io/
