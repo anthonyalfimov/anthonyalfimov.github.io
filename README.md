@@ -1,5 +1,7 @@
 # My link collection
 
+![State](https://img.shields.io/github/deployments/anthonyalfimov/anthonyalfimov.github.io/github-pages?logo=github)
+
 Personal page that collects links to everything that I do:
 https://anthonyalfimov.github.io/
 
